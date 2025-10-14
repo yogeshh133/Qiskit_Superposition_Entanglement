@@ -62,17 +62,6 @@ After exploring the notebook, students can try these small tasks:
 - Measure and plot the histogram.
 - Observe correlated outcomes (`00` or `11`).
 
-### **Task 3: Experiment with Gates**
-- Apply different gate combinations (e.g., H → X → H) on a single qubit.
-- Measure and compare the results.
-- Discuss how gate sequences affect measurement probabilities.
-
-### **Bonus Task: GHZ State**
-- Create a 3-qubit circuit.
-- Apply H to qubit 0, then CNOT (0→1) and CNOT (1→2).
-- Measure and plot the histogram.
-- Observe outcomes `000` and `111` (3-qubit entanglement).
-
 ---
 
 ## 📊 Visualizations
@@ -93,8 +82,5 @@ git clone <repository-url>
 3. Run the cells step by step to explore **superposition**, **entanglement**, and perform **student tasks**.
 
 ---
-
-## 🔗 References
-
 - [Qiskit Documentation](https://qiskit.org/documentation/)
 - [Quantum Computing Basics](https://qiskit.org/learn/intro-qc-qh/)
