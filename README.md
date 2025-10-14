@@ -9,7 +9,6 @@ This repository contains a Jupyter Notebook demonstrating **quantum superpositio
 - `Qiskit_Superposition_Entanglement.ipynb` – Main notebook demonstrating:
   1. **Superposition** of a single qubit.
   2. **Entanglement** (Bell state) of two qubits.
-  3. Optional experiments with quantum gates.
 
 ---
 
